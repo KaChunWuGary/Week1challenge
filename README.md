@@ -19,6 +19,6 @@ THEN I find a concise, descriptive title
 [Link to webpage](https://kachunwugary.github.io/Week_1_challenge/)
 
 ## Screenshot
-![Screenshot of website](./images/Screenshot_of_website)
+![Screenshot of website](./Assets/images/Screenshot_of_website.png)
 
 
