@@ -15,3 +15,10 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## Link
+[Link to webpage](https://kachunwugary.github.io/Week_1_challenge/)
+
+## Screenshot
+![Screenshot of website](./images/Screenshot_of_website)
+
+
